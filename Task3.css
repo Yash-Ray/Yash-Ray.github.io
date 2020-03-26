@@ -27,7 +27,7 @@ h3
 }
 h3:hover
 {
-    text-decoration: underline;
+    text-shadow: 8px 8px 10px orangered;
 }
 #INPUT
 {
@@ -61,4 +61,8 @@ h3:hover
     top: 65%;
     left: 30%;
 
+}
+.Box
+{
+    margin: 100px auto;
 }
