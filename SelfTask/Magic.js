@@ -18,7 +18,7 @@ function find()
     console.log("Sum = ", sum);
     console.log("Average = ", avg);
     console.log("Max = ", max);
-    alert("Hello");
+//     alert("Hello");
 
     // document.getElementById('sum').textContent=sum;
     // document.getElementById('avg').textContent=avg;
