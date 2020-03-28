@@ -1,0 +1,58 @@
+body
+{
+    background-image: url('Wp12.jpg');
+    background-repeat: repeat;
+    background-size: 100%;
+}
+h2
+{
+    text-align: center;
+    font-size: 4rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    color: rgb(196, 63, 114);
+}
+.output
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    font-size: 2.75rem;
+    color: orangered;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+#reset
+{
+    position: relative;
+    left: 48%;
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 30px;
+    color: yellow;
+    transition: 0.75s;
+}
+#reset:hover
+{
+    border-color: rgb(255, 175, 3);
+    border-radius: 10%;
+    border-radius: 15px;
+}
+#Home
+{
+    background-color: transparent;
+    border-color: transparent;
+    font-size: 30px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: rgb(221, 52, 108);
+    font-weight: bold;
+    font-variant: small-caps;
+    transition: 0.75s;
+}
+#Home:hover
+{
+    border-width: 2px;
+    border-color: rgb(221, 6, 78);
+    border-radius: 20px;
+}
